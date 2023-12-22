@@ -1,0 +1,12 @@
+Log created: 2023-12-19T10:06:54.647104000Z
+Process ID:  199295 (0x30a7f)
+Parent PID:  2702 (0xa8e)
+Executable:  /usr/lib/virtualbox/VBoxHeadless
+Arg[0]: /usr/lib/virtualbox/VBoxHeadless
+Arg[1]: --comment
+Arg[2]: worker
+Arg[3]: --startvm
+Arg[4]: 511625ab-5887-4a3a-a7fa-5a23c233dd38
+Arg[5]: --vrde
+Arg[6]: config
+AddRef: illegal refcnt=3221225469 state=2

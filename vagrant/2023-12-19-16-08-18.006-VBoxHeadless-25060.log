@@ -1,0 +1,12 @@
+Log created: 2023-12-19T16:08:18.067653000Z
+Process ID:  25060 (0x61e4)
+Parent PID:  2999 (0xbb7)
+Executable:  /usr/lib/virtualbox/VBoxHeadless
+Arg[0]: /usr/lib/virtualbox/VBoxHeadless
+Arg[1]: --comment
+Arg[2]: rancher
+Arg[3]: --startvm
+Arg[4]: 6a3cb015-f075-4f03-b507-f447e9dd9fa6
+Arg[5]: --vrde
+Arg[6]: config
+AddRef: illegal refcnt=3221225469 state=2
